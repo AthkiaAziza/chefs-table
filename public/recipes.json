@@ -1,0 +1,75 @@
+[
+    {
+      "recipe_id": "1",
+      "recipe_name": "Spicy Chicken Curry",
+      "image": "https://example.com/spicy_chicken_curry.jpg",
+      "short_description": "A flavorful and aromatic chicken curry with a kick of spice.",
+      "ingredients": ["Chicken", "Onion", "Tomatoes", "Garlic", "Ginger", "Spices"],
+      "preparing_time": "45 minutes",
+      "calories": "350 kcal"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Vegetable Stir-Fry",
+      "image": "https://example.com/vegetable_stir_fry.jpg",
+      "short_description": "A colorful and nutritious stir-fry with assorted vegetables.",
+      "ingredients": ["Broccoli", "Bell peppers", "Carrots", "Mushrooms", "Soy sauce", "Sesame oil"],
+      "preparing_time": "30 minutes",
+      "calories": "200 kcal"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Creamy Tomato Pasta",
+      "image": "https://example.com/creamy_tomato_pasta.jpg",
+      "short_description": "Rich and creamy pasta sauce made with fresh tomatoes.",
+      "ingredients": ["Pasta", "Tomatoes", "Cream", "Garlic", "Basil", "Parmesan cheese"],
+      "preparing_time": "35 minutes",
+      "calories": "400 kcal"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Grilled Salmon with Lemon Herb Butter",
+      "image": "https://example.com/grilled_salmon.jpg",
+      "short_description": "Juicy grilled salmon topped with a zesty lemon herb butter sauce.",
+      "ingredients": ["Salmon fillets", "Lemon", "Butter", "Garlic", "Herbs", "Salt"],
+      "preparing_time": "25 minutes",
+      "calories": "300 kcal"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Mango Avocado Salad",
+      "image": "https://example.com/mango_avocado_salad.jpg",
+      "short_description": "Refreshing salad with ripe mangoes and creamy avocados.",
+      "ingredients": ["Mango", "Avocado", "Lettuce", "Red onion", "Lime juice", "Cilantro"],
+      "preparing_time": "20 minutes",
+      "calories": "150 kcal"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Beef Chili",
+      "image": "https://example.com/beef_chili.jpg",
+      "short_description": "Hearty and spicy chili loaded with ground beef and beans.",
+      "ingredients": ["Ground beef", "Kidney beans", "Tomatoes", "Chili powder", "Onion", "Bell peppers"],
+      "preparing_time": "50 minutes",
+      "calories": "450 kcal"
+    },
+    {
+      "recipe_id": "7",
+      "recipe_name": "Caprese Sandwich",
+      "image": "https://example.com/caprese_sandwich.jpg",
+      "short_description": "Classic Italian sandwich with fresh mozzarella, tomatoes, and basil.",
+      "ingredients": ["Ciabatta bread", "Mozzarella cheese", "Tomato", "Basil leaves", "Balsamic vinegar", "Olive oil"],
+      "preparing_time": "15 minutes",
+      "calories": "250 kcal"
+    },
+    {
+      "recipe_id": "8",
+      "recipe_name": "Lemon Garlic Shrimp Scampi",
+      "image": "https://example.com/shrimp_scampi.jpg",
+      "short_description": "Tender shrimp cooked in a buttery garlic and lemon sauce.",
+      "ingredients": ["Shrimp", "Garlic", "Lemon", "Butter", "White wine", "Parsley"],
+      "preparing_time": "20 minutes",
+      "calories": "280 kcal"
+    }
+  ]
+  
