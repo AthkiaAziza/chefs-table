@@ -1,75 +1,75 @@
 [
     {
-      "recipe_id": "1",
-      "recipe_name": "Spicy Chicken Curry",
-      "image": "https://example.com/spicy_chicken_curry.jpg",
-      "short_description": "A flavorful and aromatic chicken curry with a kick of spice.",
-      "ingredients": ["Chicken", "Onion", "Tomatoes", "Garlic", "Ginger", "Spices"],
-      "preparing_time": "45 minutes",
-      "calories": "350 kcal"
+      "recipe_id": 1,
+      "recipe_name": "Spinanch Salad",
+      "image": "https://i.ibb.co/7N8hWdL/Spinach-salad-768x512.jpg",
+      "short_description": "Spinach salad is a nutritious and delicious dish typically made with fresh spinach leaves.",
+      "ingredients": ["Spinanch", "Parmesan Cheese", "Pomegranate", "Sliced Orange", "Walnut", "Capers"],
+      "preparing_time": 45,
+      "calories": 200
     },
     {
-      "recipe_id": "2",
-      "recipe_name": "Vegetable Stir-Fry",
-      "image": "https://example.com/vegetable_stir_fry.jpg",
-      "short_description": "A colorful and nutritious stir-fry with assorted vegetables.",
-      "ingredients": ["Broccoli", "Bell peppers", "Carrots", "Mushrooms", "Soy sauce", "Sesame oil"],
-      "preparing_time": "30 minutes",
-      "calories": "200 kcal"
+      "recipe_id": 2,
+      "recipe_name": "Caesar Salad",
+      "image": "https://i.ibb.co/F8pLkV9/Caesar-Salad-768x512.jpg",
+      "short_description": "Caesar salad is a classic dish featuring crisp romaine lettuce leaves.",
+      "ingredients": ["Fried Calamari with Sunflower", "Lettuce", "Parmesan Cheese", "Tomato", "Special Sauce", "Toasted Bread"],
+      "preparing_time": 30,
+      "calories": 500
     },
     {
-      "recipe_id": "3",
-      "recipe_name": "Creamy Tomato Pasta",
-      "image": "https://example.com/creamy_tomato_pasta.jpg",
-      "short_description": "Rich and creamy pasta sauce made with fresh tomatoes.",
-      "ingredients": ["Pasta", "Tomatoes", "Cream", "Garlic", "Basil", "Parmesan cheese"],
-      "preparing_time": "35 minutes",
-      "calories": "400 kcal"
+      "recipe_id": 3,
+      "recipe_name": "Fattoush Salad",
+      "image": "https://i.ibb.co/XLrgdt5/Fattoush-Salad-768x512.jpg",
+      "short_description": "Fattoush salad is a vibrant and flavorful Middle Eastern dish known for its refreshing taste and crunchy texture.",
+      "ingredients": ["Parmesan Cheese", "Lettuce", "Purslane", "Scallions", "Toasted Bread", "Cherry Tomatoes"],
+      "preparing_time": 35,
+      "calories": 300
     },
     {
-      "recipe_id": "4",
-      "recipe_name": "Grilled Salmon with Lemon Herb Butter",
-      "image": "https://example.com/grilled_salmon.jpg",
-      "short_description": "Juicy grilled salmon topped with a zesty lemon herb butter sauce.",
-      "ingredients": ["Salmon fillets", "Lemon", "Butter", "Garlic", "Herbs", "Salt"],
-      "preparing_time": "25 minutes",
-      "calories": "300 kcal"
+      "recipe_id": 4,
+      "recipe_name": "Calamari Salad",
+      "image": "https://i.ibb.co/dPDrj2V/Calamari-768x512.jpg",
+      "short_description": "Calamari salad is a delectable dish featuring tender rings of squid that have been cooked until tender and then chilled.",
+      "ingredients": ["Fried Calamari with Sunflower Seeds", "Dried Fruits", "Spicy Tomato", "Cabbage", "Mr. Chef Special Sauce", "Salt"],
+      "preparing_time": 25,
+      "calories": 150
     },
     {
-      "recipe_id": "5",
-      "recipe_name": "Mango Avocado Salad",
-      "image": "https://example.com/mango_avocado_salad.jpg",
-      "short_description": "Refreshing salad with ripe mangoes and creamy avocados.",
-      "ingredients": ["Mango", "Avocado", "Lettuce", "Red onion", "Lime juice", "Cilantro"],
-      "preparing_time": "20 minutes",
-      "calories": "150 kcal"
+      "recipe_id": 5,
+      "recipe_name": "Steak Mignon",
+      "image": "https://i.ibb.co/CJ37gwB/Steak-Mignon-768x512.jpg",
+      "short_description": "Steak Mignon, often referred to as Filet Mignon, is a luxurious and tender cut of beef that comes from the small end of the tenderloin. ",
+      "ingredients": ["250 gr of Steak Mignon", "Unique Garnish", "Lettuce", "Special Garlic Sauce", "Mashed Potatoes", "Sautéed Mushrooms"],
+      "preparing_time": 50,
+      "calories": 900
     },
     {
-      "recipe_id": "6",
-      "recipe_name": "Beef Chili",
-      "image": "https://example.com/beef_chili.jpg",
-      "short_description": "Hearty and spicy chili loaded with ground beef and beans.",
-      "ingredients": ["Ground beef", "Kidney beans", "Tomatoes", "Chili powder", "Onion", "Bell peppers"],
-      "preparing_time": "50 minutes",
-      "calories": "450 kcal"
+      "recipe_id": 6,
+      "recipe_name": "Salmon Steak",
+      "image": "https://i.ibb.co/BzTRDTm/Salmon-steak-768x512.jpg",
+      "short_description": "Salmon steak is a delicious and nutritious dish made from thick cuts of salmon fillet, typically obtained from the fish's side.",
+      "ingredients": ["Ground beef", "Kidney beans", "Tomatoes", "350 gr of Grilled Salmon Fillet", "Special Garnish", "Mr. Chef's Sauce"],
+      "preparing_time": 50,
+      "calories": 750
     },
     {
-      "recipe_id": "7",
-      "recipe_name": "Caprese Sandwich",
-      "image": "https://example.com/caprese_sandwich.jpg",
-      "short_description": "Classic Italian sandwich with fresh mozzarella, tomatoes, and basil.",
-      "ingredients": ["Ciabatta bread", "Mozzarella cheese", "Tomato", "Basil leaves", "Balsamic vinegar", "Olive oil"],
-      "preparing_time": "15 minutes",
-      "calories": "250 kcal"
+      "recipe_id": 7,
+      "recipe_name": "Chiken Wings",
+      "image": "https://i.ibb.co/vLBp90k/DSC07628-Large-768x512.jpg",
+      "short_description": "Chicken wings are a popular appetizer or snack.",
+      "ingredients": ["Ciabatta bread", "Mozzarella cheese", "6 piece Chicken Wings with Fries", "Mix Sauce and Salad", "Yogurt", "Olive oil"],
+      "preparing_time": 150,
+      "calories": 1600
     },
     {
-      "recipe_id": "8",
-      "recipe_name": "Lemon Garlic Shrimp Scampi",
-      "image": "https://example.com/shrimp_scampi.jpg",
-      "short_description": "Tender shrimp cooked in a buttery garlic and lemon sauce.",
-      "ingredients": ["Shrimp", "Garlic", "Lemon", "Butter", "White wine", "Parsley"],
-      "preparing_time": "20 minutes",
-      "calories": "280 kcal"
+      "recipe_id": 8,
+      "recipe_name": "Kubideh Kebab",
+      "image": "https://i.ibb.co/QF9vNj0/DSC07581-Large-768x512.jpg",
+      "short_description": "Kubideh kebab is a traditional Persian dish.",
+      "ingredients": ["Shrimp", "400 gr of Saffron Rice", "300 gr of Lamb and Veal Kebab", "Butter", "Special Salad", "Parsley"],
+      "preparing_time": 140,
+      "calories": 1100
     }
   ]
   
